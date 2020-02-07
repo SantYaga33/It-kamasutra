@@ -1,5 +1,29 @@
 .main {
-     width: 100%;
-     min-height: 100vh;
-     background-color: #6ff38f;
- }
+    width: 100%;
+    min-height: 100vh;
+    background-color: #6ff38f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_wrap {
+    width: 80%;
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.discrt {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main_img {
+    width: 400px;
+    height: 500px;
+    border: 1px solid red;
+}
