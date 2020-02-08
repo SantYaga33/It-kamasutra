@@ -1,5 +1,49 @@
+
 .contacts {
     width: 100%;
-    min-height: 100vh;
+    min-height: 60vh;
     background-color: #b76ef3;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-weight: 600;
+    font-size: 18px;
+    min-height: 20%;
+    border: 1px solid;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 500px;
+    min-height: 250px;
+}
+input {
+    width: 100%;
+    height: 30px;
+    outline: none;
+    border: none;
+    margin-bottom: 10px;
+}
+textarea {
+    outline: none;
+    border: none;
+}
+.button {
+    display: inline-block;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    background: #0069ed;
+    color: #ffffff;
+    width: 165px;
 }
