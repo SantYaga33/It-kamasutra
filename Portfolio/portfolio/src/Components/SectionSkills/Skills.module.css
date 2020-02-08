@@ -13,6 +13,8 @@
     display: flex;
     justify-content: center;
     width: 100%;
+    font-weight: 600;
+    font-size: 18px;
     min-height: 20%;
     border: 1px solid;
 

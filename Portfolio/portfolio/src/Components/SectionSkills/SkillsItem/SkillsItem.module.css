@@ -12,6 +12,8 @@
     border: 1px solid;
 }
 .item_title {
+    font-weight: 600;
+    font-size: 16px;
     padding: 30px;
 
 }
