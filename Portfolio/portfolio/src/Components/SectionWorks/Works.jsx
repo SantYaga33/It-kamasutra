@@ -11,7 +11,7 @@ function Works() {
 				<div className={style.works}>
 					<div className={style.wrap}>
 						<div className={style.title}>
-							Мои навыки
+							Мои работы
 						</div>
 						<div className={style.wrap_items}>
 							<WorksItem />
