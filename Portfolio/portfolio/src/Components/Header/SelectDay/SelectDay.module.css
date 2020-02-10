@@ -1,0 +1,25 @@
+.wrap {
+    margin-left: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    width: 82px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.red {
+    background-color: red;
+}
+.purple {
+    background-color: purple;
+}
+.blue {
+    background-color: blue;
+}
