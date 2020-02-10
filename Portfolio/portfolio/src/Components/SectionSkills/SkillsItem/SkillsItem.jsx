@@ -2,7 +2,7 @@ import React from 'react';
 import style from './SkillsItem.module.css';
 
 
-function SkillsItem() {
+function SkillsItem(props) {
 	return (
 		<div className={style.item}>
 			<div className={style.item_img}>
