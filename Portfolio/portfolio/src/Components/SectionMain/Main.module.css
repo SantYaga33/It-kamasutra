@@ -27,3 +27,51 @@
     height: 500px;
     border: 1px solid red;
 }
+
+
+
+/*--- big screen ----*/
+@media screen and (max-width: 1920px) and (min-width: 1601px) {
+
+}
+
+@media screen and (max-width: 1600px) and (min-width: 1400px) {
+
+}
+
+@media screen and (max-width: 1281px) and (min-width: 1024px) {
+
+}
+
+/*--- tablet landscape ---*/
+@media screen and (max-width: 1024px) {
+
+}
+
+/*--- tablet view ---*/
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 420px) and (min-width: 361px) {
+
+}
+
+@media screen and (max-width: 360px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}

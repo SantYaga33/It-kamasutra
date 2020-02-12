@@ -1,7 +1,6 @@
 import React from 'react';
 import style from './Header.module.css';
-import AnimatedName from "./AnimatedName/AnimatedName";
-import Progress from "./SelectDay/SelectDay";
+
 
 
 function Header() {
@@ -9,8 +8,6 @@ function Header() {
 		<div className={style.header}>
 			<div className="container">
 				<div className={style.header_wrap}>
-					<AnimatedName />
-					<Progress />
 					<div className= {style.header_content}>
 						<ul className={style.ul}>
 							<li className={style.item}>Главная</li>
