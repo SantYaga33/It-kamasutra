@@ -5,18 +5,32 @@ import styles from  './HeaderTop.module.css';
 const HeaderTop = () => {
 	return (
 		<div className={styles.headerTop}>
-			<div className={styles.headerTop_logo}></div>
-			{/* /.header-top_logo */}
-			<div className={styles.headerTop_links}></div>
-			{/* /.header-top_links */}
-			<div className={styles.headerTop_icons}></div>
-			{/* /.header-top_icons */}
-			<div className={styles.headerTop_lang}></div>
-			{/* /.header-top_lang */}
-			<div className={styles.headerTop_ava}></div>
-			{/* /.header-top_ava */}
-			<div className={styles.headerTop_menu}></div>
-			{/* /.header-top_menu */}
+			<div className={styles.headerTop_logo}>
+				LOGO
+			</div>
+			<div className={styles.headerTop_wrap}>
+				<div className={styles.headerTop_links}>
+					<ul>
+						<li><span>Home</span></li>
+						<li><span>Timeline</span></li>
+						<li><span>Account Setting</span></li>
+						<li><span>More Pages</span></li>
+					</ul>
+				</div>
+				<div className={styles.headerTop_iconWrap}>
+					<div className={styles.headerTop_icons}></div>
+					<div className={styles.headerTop_icons}></div>
+					<div className={styles.headerTop_icons}></div>
+					<div className={styles.headerTop_icons}></div>
+					<div className={styles.headerTop_icons}></div>
+				</div>
+			</div>
+			<div className={styles.headerTop_ava}>
+				<img src="" alt="avatar"/>
+			</div>
+			<div className={styles.headerTop_menu}>
+				MENU
+			</div>
 		</div>
 	);
 }

@@ -6,7 +6,7 @@ import Header from "./Header/Header";
 
 const TimeLine = () => {
 	return (
-		<div>
+		<div className={styles.timeLine}>
 			<Header />
 		</div>
 

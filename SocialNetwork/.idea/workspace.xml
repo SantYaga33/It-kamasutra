@@ -1,38 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4176f665-8209-45a0-80ae-3264529312c5" name="Default Changelist" comment="added section">
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/SidebarLeft.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/SidebarLeft.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionContacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionContacts/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionMain/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionMain/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionOffline/Offline.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionOffline/Offline.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/Skills.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/Works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/Works.module.css" afterDir="false" />
+    <list default="true" id="4176f665-8209-45a0-80ae-3264529312c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg_Img/main-bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Footer/Footer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Footer/Footer.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Header/HeaderNav/HeaderNav.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Header/HeaderNav/HeaderNav.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/SectionMain/MainBg/MainBg.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/SectionMain/MainBg/MainBg.modules.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +43,9 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,10 +60,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderBg" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderTop" />
-      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderBg" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth" />
     </key>
   </component>
@@ -100,7 +80,8 @@
       <workItem from="1580821098372" duration="5043000" />
       <workItem from="1580852169790" duration="112000" />
       <workItem from="1581527689969" duration="13000" />
-      <workItem from="1581602452680" duration="4831000" />
+      <workItem from="1581602452680" duration="15727000" />
+      <workItem from="1581625105580" duration="6321000" />
     </task>
     <task id="LOCAL-00001" summary="creat project">
       <created>1580824615803</created>
@@ -109,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580824615804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="++">
+      <created>1581608296819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581608296819</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,13 +106,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creat project" />
     <MESSAGE value="added section" />
-    <option name="LAST_COMMIT_MESSAGE" value="added section" />
+    <MESSAGE value="++" />
+    <option name="LAST_COMMIT_MESSAGE" value="++" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581606785533">
+    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581608292291">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581606785533" />
+    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581608292291" />
     <state x="849" y="821" key="NewPhpFileDialog" timestamp="1581605804630">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -133,13 +122,13 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="457" y="321" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1581608229864" />
-    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581606860443">
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581621315871">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581606860443" />
-    <state x="576" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1581602453764">
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581621315871" />
+    <state x="576" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1581625108197">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="576" y="500" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581602453764" />
+    <state x="576" y="500" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581625108197" />
   </component>
 </project>

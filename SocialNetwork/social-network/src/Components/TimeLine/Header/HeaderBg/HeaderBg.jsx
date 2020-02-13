@@ -1,10 +1,13 @@
 import React from 'react';
+import imgBg from './HeaderBg_Img/main-bg.jpg'
+import Bg from './HeaderBg_Img/timeline-1.jpg'
 import styles from  './HeaderBg.module.css';
 
 
 const HeaderBg = () => {
 	return (
 		<div className={styles.headerBg}>
+			<img src={ Bg }  alt="photo"/>
 			<div className={styles.headerBg_bg}></div>
 			{/* /.header-bg_bg */}
 			<div className={styles.headerBg_ava}></div>
