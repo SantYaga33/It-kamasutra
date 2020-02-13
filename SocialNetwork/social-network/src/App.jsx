@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
-import HeaderNav from "./Components/Header/HeaderNav/HeaderNav";
+import TimeLine from "./Components/TimeLine/TimeLine";
+
+
 
 const  App = () => {
     return (
-        <HeaderNav/>
+       <TimeLine/>
     );
 }
 

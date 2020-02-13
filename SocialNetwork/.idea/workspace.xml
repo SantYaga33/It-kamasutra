@@ -1,73 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4176f665-8209-45a0-80ae-3264529312c5" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4176f665-8209-45a0-80ae-3264529312c5" name="Default Changelist" comment="added section">
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/SidebarLeft.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/SidebarLeft.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/TimeLine.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionContacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionContacts/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionMain/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionMain/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionOffline/Offline.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionOffline/Offline.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/Works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/Works.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Footer/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Footer/Footer.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Header/HeaderNav/HeaderNav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/Header/HeaderNav/HeaderNav.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/SectionMain/MainBg/MainBg.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/SectionMain/MainBg/MainBg.modules.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/index.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/social-network/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/themeforest-6IpVwAR3-winku-social-network-toolkit-responsive-template/Winku Social Network Toolkit Responsive Template/Documentation/js/script.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/social-network/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/social-network/src/index.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/social-network/src/serviceWorker.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/social-network/src/App.js" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -75,65 +53,39 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="124" />
-    <option name="y" value="107" />
-    <option name="width" value="1514" />
-    <option name="height" value="927" />
-  </component>
+  <component name="ProjectId" id="1XiT05JzAUfpF0y2S8yKUxOQ3Q5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SocialNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocialNetwork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SocialNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocialNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="social-network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SocialNetwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SocialNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="social-network" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine" />
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header" />
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderTop" />
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderBg" />
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -147,6 +99,8 @@
       <updated>1580821095920</updated>
       <workItem from="1580821098372" duration="5043000" />
       <workItem from="1580852169790" duration="112000" />
+      <workItem from="1581527689969" duration="13000" />
+      <workItem from="1581602452680" duration="4831000" />
     </task>
     <task id="LOCAL-00001" summary="creat project">
       <created>1580824615803</created>
@@ -158,105 +112,34 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5155000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="124" y="107" width="1514" height="927" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17606603" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294423" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3294423" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17606603" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294423" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294423" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creat project" />
-    <option name="LAST_COMMIT_MESSAGE" value="creat project" />
+    <MESSAGE value="added section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added section" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/social-network/src/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/themeforest-6IpVwAR3-winku-social-network-toolkit-responsive-template/Winku Social Network Toolkit Responsive Template/Documentation/js/script.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/social-network/src/serviceWorker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/social-network/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/social-network/src/setupTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/social-network/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/social-network/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581606785533">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581606785533" />
+    <state x="849" y="821" key="NewPhpFileDialog" timestamp="1581605804630">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="849" y="821" key="NewPhpFileDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581605804630" />
+    <state x="457" y="321" key="SettingsEditor" timestamp="1581608229864">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="457" y="321" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1581608229864" />
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581606860443">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581606860443" />
+    <state x="576" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1581602453764">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="576" y="500" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581602453764" />
   </component>
 </project>

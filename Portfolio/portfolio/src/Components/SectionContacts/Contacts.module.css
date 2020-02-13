@@ -25,6 +25,7 @@
     align-items: center;
     min-width: 500px;
     min-height: 250px;
+    border: 1px  solid;
 }
 input {
     width: 100%;
@@ -32,10 +33,12 @@ input {
     outline: none;
     border: none;
     margin-bottom: 10px;
+    border: 1px  solid;
 }
 textarea {
     outline: none;
     border: none;
+    border: 1px  solid;
 }
 .button {
     display: inline-block;
@@ -47,6 +50,7 @@ textarea {
     color: #ffffff;
     width: 165px;
 }
+
 
 /*--- big screen ----*/
 @media screen and (max-width: 1920px) and (min-width: 1601px) {
