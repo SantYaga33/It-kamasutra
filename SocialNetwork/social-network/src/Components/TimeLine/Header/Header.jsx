@@ -7,12 +7,17 @@ import HeaderNav from "./HeaderNav/HeaderNav";
 
 const Header = () => {
 	return (
-		<header className={styles.header}>
-			<div className={styles.headerStub}></div>
-			<HeaderTop />
-			<HeaderBg />
-			<HeaderNav />
-		</header>
+		<div>
+			<header className={styles.header}>
+				<HeaderTop />
+				<div className={styles.headerStub}></div>
+			</header>
+			<section >
+				<HeaderBg />
+				<HeaderNav />
+			</section>
+		</div>
+
 
 	);
 }

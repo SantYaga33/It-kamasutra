@@ -1,14 +1,4 @@
-.sidebar_wrap {
-    padding: 0 7.5px;
-}
 
-.sidebar {
-    display: table;
-    float: none;
-    margin: 0 auto;
-    padding-bottom: 20px;
-    width: 100%;
-}
 .widget {
     display: inline-block;
     position: relative;
@@ -19,3 +9,4 @@
     background: #424242 none repeat scroll 0 0;
 
 }
+

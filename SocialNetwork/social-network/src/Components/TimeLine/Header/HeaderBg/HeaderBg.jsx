@@ -7,7 +7,10 @@ import styles from  './HeaderBg.module.css';
 const HeaderBg = () => {
 	return (
 		<div className={styles.headerBg}>
-			<img src={ Bg }  alt="photo"/>
+			<figure className={styles.figure}>
+				<img src={ Bg }  alt="photo"/>
+			</figure>
+
 			<div className={styles.headerBg_bg}></div>
 			{/* /.header-bg_bg */}
 			<div className={styles.headerBg_ava}></div>
