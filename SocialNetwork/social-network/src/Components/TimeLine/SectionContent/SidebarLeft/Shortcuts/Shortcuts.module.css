@@ -36,31 +36,22 @@
     vertical-align: top;
     box-sizing: border-box;
 }
-.socials > li {
+.shortcuts > li {
     margin-bottom: 10px;
+    display: flex;
+    align-items: center;
 }
-.socials > li a {
-    position: relative;
+.shortcuts > li a {
     padding: 3px 10px;
     width: 100%;
     box-sizing: border-box;
-    display: flex;
-    justify-content: space-between;
-}
-.socials > li a svg {
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    left: 50%;
-    color: #fff;
-    font-size: 25px;
 }
 
-.socials > li a span {
+.shortcuts > li a span {
     font-size: 13px;
     color: #fff;
 }
-.socials > li a ins {
+.shortcuts > li a ins {
     float: right;
     font-size: 12px;
     margin-top: 4px;
@@ -89,16 +80,6 @@
     width: 20%;
     background-color:#088dcd;
 }
-
-.facebook {
-    background: #2f5b9d;
-}
-.twitter {
-    background: #38bff1;
-}
-.google {
-    background: #f24756;
-}
-.socials_icon {
-    color: white;
+.shortcuts_icon {
+    color: #8c8c8c;
 }

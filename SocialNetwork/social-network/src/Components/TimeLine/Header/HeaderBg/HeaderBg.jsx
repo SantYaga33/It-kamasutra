@@ -8,8 +8,9 @@ const HeaderBg = () => {
 	return (
 		<div className={styles.headerBg}>
 			<figure className={styles.figure}>
-				<img src={ Bg }  alt="photo"/>
+				<img src={ imgBg }  alt="photo"/>
 			</figure>
+
 
 			<div className={styles.headerBg_bg}></div>
 			{/* /.header-bg_bg */}

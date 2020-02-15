@@ -1,17 +1,21 @@
 import React from 'react';
 import styles from  './SidebarLeft.module.css';
+import Socials from "./Socials/Socials";
+import Shortcuts from "./Shortcuts/Shortcuts";
+import Recent from "./Recent/Recent";
+import Followers from "./Followers/Followers";
 
 
 const SidebarLeft = () => {
 	return (
 		<div className={styles.sidebar_wrap	}>
-		<div className={styles.sidebar}>
-			<div className={styles.socials}></div>
-			<div className={styles.shortcuts}></div>
-			<div className={styles.recentAct}></div>
-			<div className={styles.following}></div>
+			<div className={styles.sidebar}>
+				<Socials/>
+				<Shortcuts/>
+				<Recent/>
+				<Followers/>
 
-		</div>
+			</div>
 		</div>
 	);
 }

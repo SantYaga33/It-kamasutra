@@ -1,12 +1,15 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import topAva from './HeaderTop_Img/navAva1.jpg'
 import styles from  './HeaderTop.module.css';
+
 
 
 const HeaderTop = () => {
 	return (
 		<div className={styles.headerTop}>
 			<div className={styles.headerTop_logo}>
-				LOGO
+				<FontAwesomeIcon icon={['fab', 'sith']} spin size ='lg' />
 			</div>
 			<div className={styles.headerTop_wrap}>
 				<div className={styles.headerTop_links}>
@@ -18,15 +21,25 @@ const HeaderTop = () => {
 					</ul>
 				</div>
 				<div className={styles.headerTop_iconWrap}>
-					<div className={styles.headerTop_icons}></div>
-					<div className={styles.headerTop_icons}></div>
-					<div className={styles.headerTop_icons}></div>
-					<div className={styles.headerTop_icons}></div>
-					<div className={styles.headerTop_icons}></div>
+					<div className={styles.headerTop_icons}>
+						<FontAwesomeIcon icon="search" />
+					</div>
+					<div className={styles.headerTop_icons}>
+						<FontAwesomeIcon icon='home' />
+					</div>
+					<div className={styles.headerTop_icons}>
+						<FontAwesomeIcon icon='bell' />
+					</div>
+					<div className={styles.headerTop_icons}>
+						<FontAwesomeIcon icon='comment-alt'/>
+					</div>
+					<div className={styles.headerTop_icons}>
+						<FontAwesomeIcon icon='globe-asia' />
+					</div>
 				</div>
 			</div>
 			<div className={styles.headerTop_ava}>
-				<img src="" alt="avatar"/>
+				<img src={topAva } alt="avatar"/>
 			</div>
 			<div className={styles.headerTop_menu}>
 				MENU

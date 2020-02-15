@@ -6,19 +6,15 @@
 .figure {
     margin-bottom: 0;
     display: block;
+
 }
+
 
 .figure img{
     display: inline-block;
     width: 100%;
-
 }
+
 figure {
     margin: 0 0 1rem;
-}
-img {
-    height: auto;
-    max-width: 100%;
-    vertical-align: middle;
-    border-style: none;
 }

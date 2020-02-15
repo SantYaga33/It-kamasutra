@@ -22,7 +22,7 @@ img {
   height: auto;
   max-width: 100%;
 }
-.section {
+section {
   float: left;
   position: relative;
   width: 100%;

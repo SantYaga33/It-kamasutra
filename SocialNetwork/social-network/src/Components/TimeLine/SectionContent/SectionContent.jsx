@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from  './SectionContent.module.css';
+import SidebarLeft from "./SidebarLeft/SidebarLeft";
 
 
 
@@ -9,6 +10,7 @@ const SectionContent = () => {
 			<div className={styles.section_wrap}>
 				<div className={styles.container}>
 					<div className={styles.content_wrap}>
+						<SidebarLeft />
 
 					</div>
 				</div>
