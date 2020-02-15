@@ -1,7 +1,8 @@
 import React from 'react';
 import styles from  './Central.module.css';
 
-import MyPost from "./Myposts/MyPost";
+import NewPost from "./NewPost/NewPost";
+import SamplePost from "./SamplePost/SamplePost";
 
 
 
@@ -10,7 +11,8 @@ const CentralContent = () => {
 	return (
 		<div className={styles.sidebar_wrap	}>
 			<div className={styles.sidebar}>
-				<MyPost/>
+				<NewPost/>
+				<SamplePost/>
 			</div>
 		</div>
 	);

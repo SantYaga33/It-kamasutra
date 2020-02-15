@@ -1,11 +1,11 @@
 import React from 'react';
 import styles from  './Followers.module.css';
-import img1 from './Followers_Img/follow1.jpg'
-import img2 from './Followers_Img/follow2.jpg'
-import img3 from './Followers_Img/follow3.jpg'
-import img4 from './Followers_Img/follow4.jpg'
-import img5 from './Followers_Img/follow5.jpg'
-import img6 from './Followers_Img/follow6.jpg'
+import img1 from './Followers_Img/1.png'
+import img2 from './Followers_Img/2.png'
+import img3 from './Followers_Img/3.png'
+import img4 from './Followers_Img/4.png'
+import img5 from './Followers_Img/1.png'
+import img6 from './Followers_Img/4.png'
 
 
 const Followers = () => {
@@ -43,6 +43,13 @@ const Followers = () => {
 				</li>
 				<li>
 					<figure><img src={img5 } alt=""/></figure>
+					<div className={styles.friend_meta}>
+						<h4><a href="time-line.html" title="">Allen</a></h4>
+						<a href="#" title="" className={styles.underline}>Add Friend</a>
+					</div>
+				</li>
+				<li>
+					<figure><img src={img6 } alt=""/></figure>
 					<div className={styles.friend_meta}>
 						<h4><a href="time-line.html" title="">Allen</a></h4>
 						<a href="#" title="" className={styles.underline}>Add Friend</a>

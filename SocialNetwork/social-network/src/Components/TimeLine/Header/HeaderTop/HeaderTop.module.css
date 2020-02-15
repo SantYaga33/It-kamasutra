@@ -54,15 +54,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .headerTop_ava {
     width: 50px;
-    height: 50px;
+    height: 45px;
     border: 1px solid white;
     border-radius: 100%;
 
-    background-image: url('./HeaderTop_Img/navAva1.jpg');
+    background-image: url('./HeaderTop_Img/4.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -76,5 +77,6 @@
 .headerTop_menu {
     margin-left: 20px;
     color: white;
+    cursor: pointer;
 
 }

@@ -2,107 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4176f665-8209-45a0-80ae-3264529312c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Myposts/MyPost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Myposts/MyPost.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers_Img/follow1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers_Img/follow2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers_Img/follow3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers_Img/follow4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers_Img/follow5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Followers/Followers_Img/follow6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Recent/Recent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Recent/Recent.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Shortcuts/Shortcuts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Shortcuts/Shortcuts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Socials/Socials.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Socials/Socials.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/It-kamasutra.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/SantY.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/Portfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/dictionaries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/dictionaries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/portfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Footer/Footer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Footer/Footer.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Header/Header.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/Header/Header.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionContacts/Contacts.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionContacts/Contacts.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionMain/Main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionMain/Main.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionOffline/Offline.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionOffline/Offline.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/Skills.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/Skills.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/SkillsItem/SkillsItem.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionSkills/SkillsItem/SkillsItem.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/Works.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/Works.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/WorksItem/WorksItem.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Portfolio/portfolio/src/Components/SectionWorks/WorksItem/WorksItem.module.css" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/social-network/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderBg/HeaderBg.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/Header/HeaderTop/HeaderTop.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Central.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SectionContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SectionContent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SectionContent.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SectionContent.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/Shortcuts/Shortcuts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/Shortcuts/Shortcuts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/Socials/Socials.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/Socials/Socials.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/$CACHE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/dictionaries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/lesson-1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/TodoListFooter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/TodoListHeader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/TodoListTask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/TodoListTasks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson-1/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Myposts/MyPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/NewPost/NewPost.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Myposts/MyPost.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/NewPost/NewPost.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/Followers/Followers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarLeft/Followers/Followers.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/Myposts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Banner " />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -151,11 +60,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth\Banner " />
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\Central\SamplePost" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\Central\Myposts" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderTop" />
-      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarLeft\Followers" />
-      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderNav" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -178,6 +87,7 @@
       <workItem from="1581757215827" duration="10274000" />
       <workItem from="1581771583241" duration="16461000" />
       <workItem from="1581794384027" duration="56000" />
+      <workItem from="1581794454135" duration="4642000" />
     </task>
     <task id="LOCAL-00001" summary="creat project">
       <created>1580824615803</created>
@@ -221,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581769064722</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="free- version">
+      <created>1581794538432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581794538433</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,13 +152,14 @@
     <MESSAGE value="added block content" />
     <MESSAGE value="added fontawsome" />
     <MESSAGE value="deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
+    <MESSAGE value="free- version" />
+    <option name="LAST_COMMIT_MESSAGE" value="free- version" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581769062812">
+    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581794533542">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581769062812" />
+    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581794533542" />
     <state x="916" y="453" key="FileChooserDialogImpl" timestamp="1581793154368">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -254,10 +172,10 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="457" y="321" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1581608229864" />
-    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581769066366">
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581794540386">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581769066366" />
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581794540386" />
     <state x="576" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1581794454670">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>

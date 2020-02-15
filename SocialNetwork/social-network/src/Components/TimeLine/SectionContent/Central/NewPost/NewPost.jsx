@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from  './MyPost.module.css';
+import styles from './NewPost.module.css';
 
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
@@ -7,7 +7,7 @@ import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 
 
-const MyPost = () => {
+const NewPost = () => {
 	return (
 		<div className={styles.widget}>
 			<div className={styles.newPost_wrap}>
@@ -57,4 +57,4 @@ const MyPost = () => {
 	);
 };
 
-export default MyPost;
+export default NewPost;

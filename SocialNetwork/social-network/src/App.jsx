@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import TimeLine from "./Components/TimeLine/TimeLine";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
