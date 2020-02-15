@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/It-kamasutra/static/css/main.4b096f5d.chunk.css",
-    "main.js": "/It-kamasutra/static/js/main.dde6c75b.chunk.js",
-    "main.js.map": "/It-kamasutra/static/js/main.dde6c75b.chunk.js.map",
-    "runtime-main.js": "/It-kamasutra/static/js/runtime-main.aa6c03a3.js",
-    "runtime-main.js.map": "/It-kamasutra/static/js/runtime-main.aa6c03a3.js.map",
-    "static/js/2.46788eee.chunk.js": "/It-kamasutra/static/js/2.46788eee.chunk.js",
-    "static/js/2.46788eee.chunk.js.map": "/It-kamasutra/static/js/2.46788eee.chunk.js.map",
-    "index.html": "/It-kamasutra/index.html",
-    "precache-manifest.1d6bf55f76172843a92cf59b7e190653.js": "/It-kamasutra/precache-manifest.1d6bf55f76172843a92cf59b7e190653.js",
-    "service-worker.js": "/It-kamasutra/service-worker.js",
-    "static/css/main.4b096f5d.chunk.css.map": "/It-kamasutra/static/css/main.4b096f5d.chunk.css.map",
-    "static/js/2.46788eee.chunk.js.LICENSE.txt": "/It-kamasutra/static/js/2.46788eee.chunk.js.LICENSE.txt",
-    "static/media/follow1.jpg": "/It-kamasutra/static/media/follow1.a449b46d.jpg",
-    "static/media/follow2.jpg": "/It-kamasutra/static/media/follow2.3f86f4d6.jpg",
-    "static/media/follow3.jpg": "/It-kamasutra/static/media/follow3.73325b22.jpg",
-    "static/media/follow4.jpg": "/It-kamasutra/static/media/follow4.3f86f4d6.jpg",
-    "static/media/follow5.jpg": "/It-kamasutra/static/media/follow5.afe01c29.jpg",
-    "static/media/follow6.jpg": "/It-kamasutra/static/media/follow6.73325b22.jpg",
-    "static/media/main-bg.jpg": "/It-kamasutra/static/media/main-bg.c8ae46f6.jpg",
-    "static/media/navAva1.jpg": "/It-kamasutra/static/media/navAva1.3f86f4d6.jpg"
+    "main.css": "/It-kamasutra/SocialNetwork/social-network/static/css/main.e11bb671.chunk.css",
+    "main.js": "/It-kamasutra/SocialNetwork/social-network/static/js/main.aab6ff91.chunk.js",
+    "main.js.map": "/It-kamasutra/SocialNetwork/social-network/static/js/main.aab6ff91.chunk.js.map",
+    "runtime-main.js": "/It-kamasutra/SocialNetwork/social-network/static/js/runtime-main.0abe7f9b.js",
+    "runtime-main.js.map": "/It-kamasutra/SocialNetwork/social-network/static/js/runtime-main.0abe7f9b.js.map",
+    "static/js/2.46788eee.chunk.js": "/It-kamasutra/SocialNetwork/social-network/static/js/2.46788eee.chunk.js",
+    "static/js/2.46788eee.chunk.js.map": "/It-kamasutra/SocialNetwork/social-network/static/js/2.46788eee.chunk.js.map",
+    "index.html": "/It-kamasutra/SocialNetwork/social-network/index.html",
+    "precache-manifest.15320602eb4f217e98789a0e4c289733.js": "/It-kamasutra/SocialNetwork/social-network/precache-manifest.15320602eb4f217e98789a0e4c289733.js",
+    "service-worker.js": "/It-kamasutra/SocialNetwork/social-network/service-worker.js",
+    "static/css/main.e11bb671.chunk.css.map": "/It-kamasutra/SocialNetwork/social-network/static/css/main.e11bb671.chunk.css.map",
+    "static/js/2.46788eee.chunk.js.LICENSE.txt": "/It-kamasutra/SocialNetwork/social-network/static/js/2.46788eee.chunk.js.LICENSE.txt",
+    "static/media/follow1.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/follow1.a449b46d.jpg",
+    "static/media/follow2.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/follow2.3f86f4d6.jpg",
+    "static/media/follow3.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/follow3.73325b22.jpg",
+    "static/media/follow4.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/follow4.3f86f4d6.jpg",
+    "static/media/follow5.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/follow5.afe01c29.jpg",
+    "static/media/follow6.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/follow6.73325b22.jpg",
+    "static/media/main-bg.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/main-bg.c8ae46f6.jpg",
+    "static/media/navAva1.jpg": "/It-kamasutra/SocialNetwork/social-network/static/media/navAva1.3f86f4d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa6c03a3.js",
+    "static/js/runtime-main.0abe7f9b.js",
     "static/js/2.46788eee.chunk.js",
-    "static/css/main.4b096f5d.chunk.css",
-    "static/js/main.dde6c75b.chunk.js"
+    "static/css/main.e11bb671.chunk.css",
+    "static/js/main.aab6ff91.chunk.js"
   ]
 }
