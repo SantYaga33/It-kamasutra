@@ -36,8 +36,18 @@
     vertical-align: top;
     box-sizing: border-box;
 }
+
+.shortcuts a {
+    transition: color;
+    transition-timing-function: ease-in-out;
+    transition-duration: 200ms;
+}
+.shortcuts a:hover {
+    color: #088dcd;
+}
+
 .shortcuts > li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     display: flex;
     align-items: center;
 }

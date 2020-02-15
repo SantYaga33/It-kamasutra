@@ -1,5 +1,5 @@
 import React from 'react';
-import imgBg from './HeaderBg_Img/main-bg.jpg'
+import imgBg from './HeaderBg_Img/main-bg-50.png'
 import Bg from './HeaderBg_Img/timeline-1.jpg'
 import styles from  './HeaderBg.module.css';
 

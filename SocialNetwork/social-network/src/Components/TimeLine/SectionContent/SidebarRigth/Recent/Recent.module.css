@@ -9,6 +9,8 @@
     border-radius: 5px;
     background: #424242 none repeat scroll 0 0;
 
+    color: white;
+
 }
 .widget > ul {
     display: inline-block;
@@ -25,6 +27,7 @@
     position: relative;
     width: 100%;
     box-sizing: border-box;
+
 }
 .widget li > a {
     font-size: 14px;
@@ -36,31 +39,38 @@
     vertical-align: top;
     box-sizing: border-box;
 }
-.socials > li {
-    margin-bottom: 10px;
-}
-.socials > li a {
+.recent > li {
+    padding-left: 12px;
+    margin-bottom: 20px;
     position: relative;
+}
+.recent > li::before {
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2px;
+    background: #088dcd;
+}
+
+.recent > li a {
     padding: 3px 10px;
     width: 100%;
     box-sizing: border-box;
-    display: flex;
-    justify-content: space-between;
-}
-.socials > li a svg {
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    left: 50%;
-    color: #fff;
-    font-size: 25px;
 }
 
-.socials > li a span {
+.recent > li a span {
     font-size: 13px;
     color: #fff;
 }
-.socials > li a ins {
+.recent span > a {
+    color: white;
+}
+.recent h6 > a {
+    color: #088dcd;
+}
+.recent > li a ins {
     float: right;
     font-size: 12px;
     margin-top: 4px;
@@ -80,7 +90,6 @@
     width: 100%;
     box-sizing: border-box;
 }
-
 .widgetTitle::before {
     bottom: 0;
     content: "";
@@ -90,16 +99,31 @@
     width: 20%;
     background-color:#088dcd;
 }
-
-.facebook {
-    background: #2f5b9d;
+.recent_activity {
+    display: inline-block;
+    width: 100%;
 }
-.twitter {
-    background: #38bff1;
+.widget li i {
+    color: #999;
+    display: inline-block;
+    font-size: 11px;
+    margin-right: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+    white-space: nowrap;
 }
-.google {
-    background: #f24756;
+.activity-meta > span {
+    display: inline-block;
+    width: 100%;
+    font-size: 13px;
+    font-weight: 500;
 }
-.socials_icon {
-    color: white;
+.activity-meta > h6 a {
+    color: #088dcd;
+    outline: none;
+}
+h6 {
+    padding: 0;
+    margin: 0;
 }

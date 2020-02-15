@@ -10,13 +10,13 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faCoffee ,faSearch,faHome ,faCommentAlt,
     faClipboard,faMouse, faFile,faUser,faImages,
     faVideo,faSms,faBell, faStreetView,faChartLine,
-    faPowerOff,faGlobeAsia } from '@fortawesome/free-solid-svg-icons'
+    faPowerOff,faGlobeAsia,faAlignRight} from '@fortawesome/free-solid-svg-icons'
 
 
 
 library.add(fab, faCoffee ,faSearch,faHome ,faCommentAlt,
     faGlobeAsia,  faClipboard,faMouse, faFile,faUser,faImages,
-    faVideo,faSms,faBell, faStreetView,faChartLine,faPowerOff );
+    faVideo,faSms,faBell, faStreetView,faChartLine,faPowerOff,faAlignRight );
 
 
 const  App = () => {

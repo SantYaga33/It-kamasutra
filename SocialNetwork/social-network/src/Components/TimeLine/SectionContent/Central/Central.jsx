@@ -1,13 +1,19 @@
 import React from 'react';
-import styles from  './HeaderNav.module.css';
+import styles from  './Central.module.css';
+
+import MyPost from "./Myposts/MyPost";
 
 
-const HeaderNav = () => {
+
+
+const CentralContent = () => {
 	return (
-		<div>
-
+		<div className={styles.sidebar_wrap	}>
+			<div className={styles.sidebar}>
+				<MyPost/>
+			</div>
 		</div>
 	);
 }
 
-export default HeaderNav;
+export default CentralContent;

@@ -39,10 +39,10 @@ const HeaderTop = () => {
 				</div>
 			</div>
 			<div className={styles.headerTop_ava}>
-				<img src={topAva } alt="avatar"/>
+				{/*<img src={topAva } alt="avatar"/>*/}
 			</div>
 			<div className={styles.headerTop_menu}>
-				MENU
+				<FontAwesomeIcon icon='align-right' />
 			</div>
 		</div>
 	);
