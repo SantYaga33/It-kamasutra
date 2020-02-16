@@ -16,7 +16,7 @@ const Followers = () => {
 				<li>
 					<figure><img src={img1 } alt=""/></figure>
 					<div className={styles.friend_meta}>
-						<h4><a href="time-line.html" title="">Kelly Bill</a></h4>
+						<h4><a href="time-line.html" title="">Dendi Boss</a></h4>
 						<a href="#" title="" className={styles.underline}>Add Friend</a>
 					</div>
 				</li>
@@ -30,7 +30,7 @@ const Followers = () => {
 				<li>
 					<figure><img src={img3 } alt=""/></figure>
 					<div className={styles.friend_meta}>
-						<h4><a href="time-line.html" title="">Andrew</a></h4>
+						<h4><a href="time-line.html" title="">Dread</a></h4>
 						<a href="#" title="" className={styles.underline}>Add Friend</a>
 					</div>
 				</li>
@@ -44,7 +44,7 @@ const Followers = () => {
 				<li>
 					<figure><img src={img5 } alt=""/></figure>
 					<div className={styles.friend_meta}>
-						<h4><a href="time-line.html" title="">Allen</a></h4>
+						<h4><a href="time-line.html" title="">Kuroku</a></h4>
 						<a href="#" title="" className={styles.underline}>Add Friend</a>
 					</div>
 				</li>

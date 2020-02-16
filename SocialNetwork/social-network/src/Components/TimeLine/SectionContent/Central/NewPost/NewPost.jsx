@@ -1,7 +1,8 @@
 import React from 'react';
 import styles from './NewPost.module.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import newPostAva from './NewPost_Img/4.png'
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+
 
 
 
@@ -21,26 +22,26 @@ const NewPost = () => {
 							<div className={styles.newPost_service}>
 								<ul>
 									<li>
-										<i className="fa fa-music"></i>
-										<label className="fileContainer">
+										<FontAwesomeIcon icon='music' className={styles.newPost_icon} />
+										<label className={styles.newPost_fileContainer}>
 											<input type="file"/>
 										</label>
 									</li>
 									<li>
-										<i className="fa fa-image"></i>
-										<label className="fileContainer">
+									<FontAwesomeIcon icon='image' className={styles.newPost_icon} />
+										<label className={styles.newPost_fileContainer}>
 											<input type="file"/>
 										</label>
 									</li>
 									<li>
-										<i className="fa fa-video-camera"></i>
-										<label className="fileContainer">
+									<FontAwesomeIcon icon='file-video'className={styles.newPost_icon} />
+										<label className={styles.newPost_fileContainer}>
 											<input type="file"/>
 										</label>
 									</li>
 									<li>
-										<i className="fa fa-camera"></i>
-										<label className="fileContainer">
+										<FontAwesomeIcon icon='camera' className={styles.newPost_icon} />
+										<label className={styles.newPost_fileContainer}>
 											<input type="file"/>
 										</label>
 									</li>
