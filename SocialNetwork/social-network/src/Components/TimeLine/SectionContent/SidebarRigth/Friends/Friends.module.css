@@ -59,6 +59,14 @@
     width: 20%;
     background-color:#088dcd;
 }
+.friends {
+    overflow: hidden;
+    position: relative;
+    max-height: 440px;
+}
+.friends:hover {
+    overflow-y:auto;
+}
 .friends > li figure {
     display: inline-block;
     margin-bottom: 0;
@@ -131,3 +139,24 @@
 .friend_meta > h4 a {
     color: white;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

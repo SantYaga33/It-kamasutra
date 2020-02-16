@@ -78,6 +78,13 @@
     width: 20%;
     background-color:#088dcd;
 }
+.followers {
+    max-height: 384px;
+    overflow: hidden;
+}
+.followers:hover {
+    overflow-y:auto;
+}
 .followers > li figure {
     display: inline-block;
     margin-bottom: 0;
