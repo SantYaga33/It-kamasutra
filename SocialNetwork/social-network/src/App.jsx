@@ -9,14 +9,14 @@ import { faCoffee ,faSearch,faHome ,faCommentAlt,
     faClipboard,faMouse, faFile,faUser,faImages,
     faVideo,faSms,faBell, faStreetView,faChartLine,
     faPowerOff,faGlobeAsia,faAlignRight, faEye, faComments,
-     faHeart, faHeartbeat,faShareAltSquare } from '@fortawesome/free-solid-svg-icons'
+     faHeart, faHeartbeat,faShareAltSquare, faReply } from '@fortawesome/free-solid-svg-icons'
 
 
 library.add(fab, faCoffee ,faSearch,faHome ,faCommentAlt,
     faGlobeAsia,  faClipboard,faMouse, faFile,faUser,faImages,
     faVideo,faSms,faBell, faStreetView,faChartLine,faPowerOff,
     faAlignRight, faEye, faComments, faHeart, faHeartbeat,
-    faShareAltSquare );
+    faShareAltSquare,faReply );
 
 
 const  App = () => {

@@ -6,6 +6,7 @@ import sampleDrive from './SamplePost_Img/drive.png'
 
 
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import Comment from "./Comment/Comment";
 
 
 
@@ -51,27 +52,19 @@ const SamplePost = () => {
 				</div>
 
 				<div className={styles.samplePost_text}>
-					Curabitur world's most beautiful car in #test
-					drive booking ! the most beatuiful car available
-					in america and the saudia arabia, you can book your
-					test drive by our official website
+					Последние два месяца осадой Плевны фактически руководит старый
+					и опытный генерал Тотлебен, хорошо памятный британцам по Севастопольской
+					кампании. Будучи не столько полководцем, сколько инженером, Тотлебен
+					отказался от тактики лобовых атак и подверг армию Османа-паши правильной
+					блокаде.
 				</div>
+				<ul className={styles.samplePost_comments}>
+					<li><Comment/></li>
+				</ul>
+
+
 			</div>
 
-
-
-			<div className={styles.samplePost_comment}>
-				<div className={styles.sampleComment_ava}>
-					<img src="" alt=""/>
-				</div>
-				<div className={styles.sampleComment_wrap}>
-					<div className={styles.samplePost_wrap2}>
-						<div className={styles.sampleComment_author}></div>
-						<div className={styles.sampleComment_time}></div>
-					</div>
-					<div className={styles.sampleComment_text}></div>
-				</div>
-			</div>
 		</div>
 	);
 };

@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './NewPost.module.css';
-
+import newPostAva from './NewPost_Img/4.png'
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 
@@ -13,7 +13,7 @@ const NewPost = () => {
 			<div className={styles.newPost_wrap}>
 				<div className={styles.newPost}>
 					<div className={styles.newPost_Ava}>
-						<img src="images/resources/admin2.jpg" alt=""/>
+						<img src={ newPostAva } alt=""/>
 					</div>
 					<div className={styles.newPost_input}>
 						<form method="post" className={styles.newPostForm}>

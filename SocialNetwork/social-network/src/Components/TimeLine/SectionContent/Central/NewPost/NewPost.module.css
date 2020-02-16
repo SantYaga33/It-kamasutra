@@ -35,7 +35,6 @@
     vertical-align: top;
     width: 10.4%;
     height: 60px;
-    border: 1px solid;
     box-sizing: border-box;
 }
 .newPost_Ava img {
@@ -79,6 +78,7 @@
     margin-top: 0;
     padding-left: 0;
     box-sizing: border-box;
+    /*display: flex;*/
 }
 .newPost_service li {
     display: inline-block;
