@@ -1,8 +1,6 @@
 import React from 'react';
 import './App.css';
-
 import TimeLine from "./Components/TimeLine/TimeLine";
-
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
@@ -10,13 +8,15 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faCoffee ,faSearch,faHome ,faCommentAlt,
     faClipboard,faMouse, faFile,faUser,faImages,
     faVideo,faSms,faBell, faStreetView,faChartLine,
-    faPowerOff,faGlobeAsia,faAlignRight} from '@fortawesome/free-solid-svg-icons'
-
+    faPowerOff,faGlobeAsia,faAlignRight, faEye, faComments,
+     faHeart, faHeartbeat,faShareAltSquare } from '@fortawesome/free-solid-svg-icons'
 
 
 library.add(fab, faCoffee ,faSearch,faHome ,faCommentAlt,
     faGlobeAsia,  faClipboard,faMouse, faFile,faUser,faImages,
-    faVideo,faSms,faBell, faStreetView,faChartLine,faPowerOff,faAlignRight );
+    faVideo,faSms,faBell, faStreetView,faChartLine,faPowerOff,
+    faAlignRight, faEye, faComments, faHeart, faHeartbeat,
+    faShareAltSquare );
 
 
 const  App = () => {

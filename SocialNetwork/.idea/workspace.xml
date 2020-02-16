@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4176f665-8209-45a0-80ae-3264529312c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Banner/Banner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Banner/Banner.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/follow1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/follow2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/follow3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/follow4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/follow5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost_Img/follow6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost/SamplePost.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/SidebarRigth.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +59,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/SidebarRigth/Banner " />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/social-network/src/Components/TimeLine/SectionContent/Central/SamplePost" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -64,8 +75,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth\Banner " />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\Central\SamplePost" />
+      <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth\Banner " />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\Central\Myposts" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\SectionContent\SidebarRigth" />
       <recent name="C:\It-kamasutra\SocialNetwork\social-network\src\Components\TimeLine\Header\HeaderTop" />
@@ -91,7 +102,8 @@
       <workItem from="1581757215827" duration="10274000" />
       <workItem from="1581771583241" duration="16461000" />
       <workItem from="1581794384027" duration="56000" />
-      <workItem from="1581794454135" duration="5987000" />
+      <workItem from="1581794454135" duration="6851000" />
+      <workItem from="1581810678912" duration="8353000" />
     </task>
     <task id="LOCAL-00001" summary="creat project">
       <created>1580824615803</created>
@@ -149,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581799137384</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="+">
+      <created>1581800501099</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581800501099</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,13 +184,14 @@
     <MESSAGE value="deploy" />
     <MESSAGE value="free- version" />
     <MESSAGE value="added central post+comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="added central post+comment" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581800466895">
+    <state x="567" y="193" key="CommitChangelistDialog2" timestamp="1581800499290">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581800466895" />
+    <state x="567" y="193" key="CommitChangelistDialog2/0.40.1920.1040@0.40.1920.1040" timestamp="1581800499290" />
     <state x="916" y="453" key="FileChooserDialogImpl" timestamp="1581793154368">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -184,13 +204,13 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="457" y="321" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1581608229864" />
-    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581799139456">
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2" timestamp="1581800503245">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581799139456" />
-    <state x="576" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1581794454670">
+    <state x="536" y="331" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1581800503245" />
+    <state x="576" y="500" key="com.intellij.ide.util.TipDialog" timestamp="1581810682065">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="576" y="500" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581794454670" />
+    <state x="576" y="500" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1581810682065" />
   </component>
 </project>
