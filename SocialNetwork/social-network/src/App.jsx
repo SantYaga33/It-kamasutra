@@ -10,14 +10,15 @@ import { faCoffee ,faSearch,faHome ,faCommentAlt,
     faVideo,faSms,faBell, faStreetView,faChartLine,
     faPowerOff,faGlobeAsia,faAlignRight, faEye, faComments,
     faHeart, faHeartbeat,faShareAltSquare, faReply , faMusic,faImage,
-    faFileVideo, faCamera} from '@fortawesome/free-solid-svg-icons'
+    faFileVideo, faCamera, faAddressCard, faMobileAlt} from '@fortawesome/free-solid-svg-icons'
 
 
 library.add(fab, faCoffee ,faSearch,faHome ,faCommentAlt,
     faGlobeAsia,  faClipboard,faMouse, faFile,faUser,faImages,
     faVideo,faSms,faBell, faStreetView,faChartLine,faPowerOff,
     faAlignRight, faEye, faComments, faHeart, faHeartbeat,
-    faShareAltSquare,faReply,faMusic,faImage, faFileVideo, faCamera );
+    faShareAltSquare,faReply,faMusic,faImage, faFileVideo, faCamera,
+    faAddressCard, faMobileAlt);
 
 
 const  App = () => {
