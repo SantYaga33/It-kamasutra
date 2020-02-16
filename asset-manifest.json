@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/It-kamasutra/static/css/main.bad04595.chunk.css",
-    "main.js": "/It-kamasutra/static/js/main.be1de584.chunk.js",
-    "main.js.map": "/It-kamasutra/static/js/main.be1de584.chunk.js.map",
+    "main.js": "/It-kamasutra/static/js/main.2ff53084.chunk.js",
+    "main.js.map": "/It-kamasutra/static/js/main.2ff53084.chunk.js.map",
     "runtime-main.js": "/It-kamasutra/static/js/runtime-main.292ca5f6.js",
     "runtime-main.js.map": "/It-kamasutra/static/js/runtime-main.292ca5f6.js.map",
     "static/js/2.54686b4e.chunk.js": "/It-kamasutra/static/js/2.54686b4e.chunk.js",
     "static/js/2.54686b4e.chunk.js.map": "/It-kamasutra/static/js/2.54686b4e.chunk.js.map",
     "index.html": "/It-kamasutra/index.html",
-    "precache-manifest.66618d32ac6a0534a02f139ced31907e.js": "/It-kamasutra/precache-manifest.66618d32ac6a0534a02f139ced31907e.js",
+    "precache-manifest.9b9d8457efb7edda1da5aa282af38237.js": "/It-kamasutra/precache-manifest.9b9d8457efb7edda1da5aa282af38237.js",
     "service-worker.js": "/It-kamasutra/service-worker.js",
     "static/css/main.bad04595.chunk.css.map": "/It-kamasutra/static/css/main.bad04595.chunk.css.map",
     "static/js/2.54686b4e.chunk.js.LICENSE.txt": "/It-kamasutra/static/js/2.54686b4e.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.292ca5f6.js",
     "static/js/2.54686b4e.chunk.js",
     "static/css/main.bad04595.chunk.css",
-    "static/js/main.be1de584.chunk.js"
+    "static/js/main.2ff53084.chunk.js"
   ]
 }
