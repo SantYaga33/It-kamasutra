@@ -78,6 +78,13 @@
     font-size: 16px;
     font-weight: 400;
 }
+.samplePost_icon_eye:hover, .samplePost_icon_comments:hover {
+    transform: scale(1.5);
+    color: #ff6600;
+    transition: all 200ms ease;
+}
+
+
 .samplePost_icon_heart,.samplePost_icon_heart+ ins  {
     color: #008000;
 }
