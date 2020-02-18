@@ -29,7 +29,9 @@ const Footer = () => {
 						<div className={styles.footer_blockInfo}>
 							Block 3
 						</div>
-						<div className={styles.footer_blockInfo}></div>
+						<div className={styles.footer_blockInfo}>
+							Block 4
+						</div>
 
 						<div className={styles.footer_blockInfo}></div>
 					</div>
